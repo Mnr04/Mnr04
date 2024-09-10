@@ -7,6 +7,7 @@
   ➡️ Web Developper ( Titre RNCP RNCP37674 ) 👨‍💻
   
   ➡️ Mathematics for Machine Learning Specialization  - (Coursera / Imperial College London) 🧮
+  ➡️ Algebra and Differential Calculus for Data Science - (Coursera / Colorado Boulder ) 🧮
     
 
 
