@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I'm currently advancing my skills in data science and machine learning, and I am eager to apply my growing expertise to new and exciting challenges.
+🔭 I'm currently learning data science and machine learning, and I am eager to apply my growing expertise to new and exciting challenges.
 
 🎓 Actual Certification :
 
