@@ -5,6 +5,7 @@
 🎓 Actual Certification :
 
   Web Developper ( Titre RNCP de Développeur Web et Web Mobile - RNCP37674 )
+  
   Mathematics for Machine Learning - (Coursera / Imperial College London) 
 
 
