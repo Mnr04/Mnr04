@@ -1,3 +1,5 @@
+https://github.com/codesbyahsen
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there 👋)](https://git.io/typing-svg)
 ## Hi there 👋
 
 🔭 I'm currently learning data science and machine learning.
