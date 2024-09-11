@@ -11,5 +11,5 @@
   ➡️ Algebra and Differential Calculus for Data Science - (Coursera / Colorado Boulder ) 🧮
     
 
-![Uploading hacker.gif…]()
+
 
