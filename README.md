@@ -2,9 +2,8 @@
 
 🔭 I'm currently learning :
 
-➡️ Data science 
+  ➡️ Data Science (with a focus on Machine Learning)
 
-➡️ Machine learning
 
 🎓 Actual Certification :
 
