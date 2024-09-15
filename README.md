@@ -7,7 +7,7 @@
 
 🎓 Actual Certification :
 
-  ✅ Web Developper ( Titre RNCP37674 ) 👨‍💻
+  ✅ Web Developper (Titre RNCP37674) 👨‍💻
   
   ✅ Mathematics for Machine Learning Specialization  - (Coursera / Imperial College London) 🧮
   
