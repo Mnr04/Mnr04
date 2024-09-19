@@ -2,8 +2,6 @@
 
 🔭 I'm currently learning :
 
-  ➡️ Data Analysis
-  
   ➡️ Data Science (with a focus on Machine Learning)
 
 
