@@ -2,9 +2,9 @@
 
  🔭 I'm currently learning :
 ➡️ Data Science (with a focus on Machine Learning)
-💻 Languages and Tools :
+                             💻 Languages and Tools :
 
-<p></p> 
+<p>
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
     <a href="https://numpy.org/" target="_blank"> <img alt="numpy" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
@@ -14,10 +14,10 @@
        HTML5_Badge.svg.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="HTML" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
     <br>
+ </p>
 
-  <p></p>
+                                🎓 Actual Certification :
 
-🎓 Actual Certification :
 ✅ Web Developper (Titre RNCP37674) 👨‍💻
 ✅ Mathematics for Machine Learning Specialization - (Coursera / Imperial College London) 🧮
 ✅ Algebra and Differential Calculus for Data Science - (Coursera / Colorado Boulder ) 🧮  
