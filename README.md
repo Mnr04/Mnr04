@@ -13,6 +13,7 @@
     <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a> 
     <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
     <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="HTML" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
+    <a href="https://ru.wikipedia.org/wiki/CSS](https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> <img alt="js" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png(https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)" /></a>
     <br>
     <p></p>
     
