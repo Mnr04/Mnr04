@@ -2,15 +2,12 @@
 
 
 ### 🔭 I'm currently learning :
-
-
+<br/>
   ➡️ Data Science (with a focus on Machine Learning)
-
-  
-### 💻 Languages and Tools :
 <br/>
 
-
+### 💻 Languages and Tools :
+<br/>
  <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
@@ -21,14 +18,10 @@
     <a href="https://ru.wikipedia.org/wiki/CSS](https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> <img alt="js" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
     <br>
     <p></p>
-    
   <p></p>
-
-
-
+  
 ### 🎓 Actual Certification :
-
-
+<br/>
 
   ✅ Web Developper (Titre RNCP37674) 👨‍💻
 
