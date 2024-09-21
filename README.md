@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-                                                                                🔭 I'm currently learning :
+   🔭 I'm currently learning :
 
   ➡️ Data Science (with a focus on Machine Learning)
 
-                                                                                💻 Languages and Tools :
+   💻 Languages and Tools :
 
  <p></p> 
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
@@ -19,7 +19,7 @@
     
   <p></p>
 
-                                                                                  🎓 Actual Certification :
+ ### 🎓 Actual Certification :
 
   ✅ Web Developper (Titre RNCP37674) 👨‍💻
 
