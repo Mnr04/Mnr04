@@ -3,7 +3,7 @@
 
 ### 🔭 I'm currently learning :
 <br/>
-  ➡️ Data Science (with a focus on Machine Learning)
+  ➡️ Data Science (with a focus on Machine Learning).
 <br/>
 
 ### 💻 Languages and Tools :
